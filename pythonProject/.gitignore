@@ -1,4 +1,6 @@
-./NoUpload/
+./NoUpload/*
 /NoUpload/*
-./test.py
-/test.py
+NoUpload/*
+./test1.py
+/test1.py
+test1.py
