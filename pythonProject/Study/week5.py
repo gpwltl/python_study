@@ -28,3 +28,6 @@ print("조합", list(c))
 #         else:
 #             front = front*100 + p[j]
 #     ans = min(ans, front)
+
+abc="abc"
+print(abc[0:3])
