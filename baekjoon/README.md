@@ -8,7 +8,7 @@
 1. [단어 공부(1157)](https://www.acmicpc.net/problem/1157)
 2. [명령 프롬프트(1032)](https://www.acmicpc.net/problem/1032)
 
-2022-12-
+2022-12-07
 1. [약수(1037)](https://www.acmicpc.net/problem/1037)
 2. [분수찾기(1193)](https://www.acmicpc.net/problem/1193)
 
