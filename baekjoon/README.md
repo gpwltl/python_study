@@ -12,6 +12,6 @@
 1. [약수(1037)](https://www.acmicpc.net/problem/1037)
 2. [분수찾기(1193)](https://www.acmicpc.net/problem/1193)
 
-2022-12-
-1. [암호 키(1816)](https://www.acmicpc.net/problem/1816)
+2022-12-12
+1. ~~[암호 키(1816)](https://www.acmicpc.net/problem/1816)~~ 메모리 초과로 보류 ...
 2. [논리학 교수(1813)](https://www.acmicpc.net/problem/1813)
